@@ -2,6 +2,6 @@
 
 
 
-function append {
+
   pets.push ("Odie");
-}
+
